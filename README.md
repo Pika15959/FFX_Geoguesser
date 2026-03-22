@@ -19,3 +19,26 @@ Using .VBF browers, extract a copy of all the English text files and the .ebp we
 How the code operates is that it uses these files in the Geoguess folders to create edited variants of each file within the 'outputs' folder.
 So that you can run around the game, place Geoguess Models and Text and after you're done, navigate to the 'outputs' folder and copy and paste it into the EXTERNAL FILE LOADERS FFX folder that contains 'master'.
 Thus saving individual placement.
+
+
+REQUIRED MODULES:
+Python modules you need to install to work the Geoguesser;
+
+import tkinter as tk
+from tkinter import ttk, messagebox
+import pymem
+import pymem.process
+import struct
+import csv
+import os
+import shutil
+import re
+import time
+import json
+import subprocess
+
+Try in Command Run;
+pip install tkinter
+pip install pymem
+...
+etc.
