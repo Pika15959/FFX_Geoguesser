@@ -1,6 +1,24 @@
 # FFX_Geoguesser
 Input random NPCs in locations for a FFX-based Geoguess Game
 
+1) Turn on Game and double click the Geoguesser.py
+![bandicam 2026-03-22 11-29-38-499](https://github.com/user-attachments/assets/d78f3964-2ca0-4e59-b506-1430f93c6db1)
+
+2) Go to the location you want the character to pop up, type in the text for the charachter on tab 2 and then hit "Add Geoguess" on tab 1.
+![bandicam 2026-03-22 11-29-47-755](https://github.com/user-attachments/assets/136db9bc-bf8b-439c-969d-57c437947ba8)
+
+3) After you done a few geoguesses on the same or other maps (or just 1 as a test). Go to the outputs folder of the Geoguess folder and NOW you should have a master folder containing editted text and .ebp files.
+COPY this folder and paste it where the master folder WOULD BE inside the External File Loader.
+![bandicam 2026-03-22 11-30-14-938](https://github.com/user-attachments/assets/e161b15e-11aa-4018-9338-778d66d33f04)
+![bandicam 2026-03-22 11-30-40-786](https://github.com/user-attachments/assets/20f1a7bf-a4fa-40ab-aff2-b4b4e6f0ca29)
+
+Note: See how it says it only replaces 6 files? This is because I only edited 3 maps in the Geoguesser throughout the master folder structure.
+
+![bandicam 2026-03-22 11-31-09-143](https://github.com/user-attachments/assets/3a8ca4f5-48ef-4d83-9509-aaa86f2e479d)
+
+
+
+HOW TO SET UP GEOGUESSER:
 Required Folder Structure Arrangement:
 Make a folder on your deskptop and place therin the Geoguesser.py, a folder named 'data' and a folder named 'outputs'.
 ![bandicam 2026-03-22 11-09-05-271](https://github.com/user-attachments/assets/8a1e006e-b83c-4f7b-823e-af7db902bcb9)
