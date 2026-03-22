@@ -21,7 +21,10 @@ Note: See how it says it only replaces 6 files? This is because I only edited 3 
 
 
 
-HOW TO SET UP GEOGUESSER:
+
+
+HOW TO SET UP GEOGUESSER
+
 Required Folder Structure Arrangement:
 Make a folder on your deskptop and place therin the Geoguesser.py, a folder named 'data' and a folder named 'outputs'.
 ![bandicam 2026-03-22 11-09-05-271](https://github.com/user-attachments/assets/8a1e006e-b83c-4f7b-823e-af7db902bcb9)
